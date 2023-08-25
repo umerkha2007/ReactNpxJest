@@ -1,0 +1,13 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "skipLibCheck": true,
+    "paths": {
+      "sample-react-app/ui-shared": [
+        "packages/sample-react-app/ui-shared/src/index.ts"
+      ]
+    }
+  }
+}
